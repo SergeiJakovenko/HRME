@@ -1,0 +1,12 @@
+Информация: Масштаб по X задан.
+Информация: Масштаб по Y задан.
+Начерчено в 'C:\Users\serjak\Documents\Harness_Resistor_Matrix_Encoder\HRME_V1\HRME_V1-F_Cu.pdf'.
+Начерчено в 'C:\Users\serjak\Documents\Harness_Resistor_Matrix_Encoder\HRME_V1\HRME_V1-B_Cu.pdf'.
+Начерчено в 'C:\Users\serjak\Documents\Harness_Resistor_Matrix_Encoder\HRME_V1\HRME_V1-F_Paste.pdf'.
+Начерчено в 'C:\Users\serjak\Documents\Harness_Resistor_Matrix_Encoder\HRME_V1\HRME_V1-B_Paste.pdf'.
+Начерчено в 'C:\Users\serjak\Documents\Harness_Resistor_Matrix_Encoder\HRME_V1\HRME_V1-F_Silkscreen.pdf'.
+Начерчено в 'C:\Users\serjak\Documents\Harness_Resistor_Matrix_Encoder\HRME_V1\HRME_V1-B_Silkscreen.pdf'.
+Начерчено в 'C:\Users\serjak\Documents\Harness_Resistor_Matrix_Encoder\HRME_V1\HRME_V1-F_Mask.pdf'.
+Начерчено в 'C:\Users\serjak\Documents\Harness_Resistor_Matrix_Encoder\HRME_V1\HRME_V1-B_Mask.pdf'.
+Начерчено в 'C:\Users\serjak\Documents\Harness_Resistor_Matrix_Encoder\HRME_V1\HRME_V1-Edge_Cuts.pdf'.
+Информация: Готово.

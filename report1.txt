@@ -1,0 +1,1 @@
+Обновление символа R11 из 'Device:R_Small' в 'Device:R_Small': OK

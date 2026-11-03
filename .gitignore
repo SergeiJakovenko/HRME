@@ -1,0 +1,22 @@
+﻿# KiCad specific ignores
+*.pro
+*.kicad_prl
+*.kicad_lock
+*-bak
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Temporary files
+*.000
+*.001
+*.tmp
+*~
+
+# Folders
+_autosave/
+.history/
+_restore_backup*/
+.cache/
+fp-lib-table.cache
+sym-lib-table.cache
